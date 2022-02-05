@@ -27,9 +27,9 @@ Hey there 👋
 
 ## 📈 GitHub Stats
 
-<p style="display: flex; justify-content: center; ">
+<p align="center">
 <img style="margin:10px" src="https://github-readme-stats.vercel.app/api?username=Mr-G3ntl3man&show_icons=true&theme=solarized-light" alt="Mr-G3ntl3man Profile Stats" />
 </p>
-<p style="display: flex; justify-content: center; ">
+<p align="center">
 <img style="margin:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-G3ntl3man&langs_count=10&theme=solarized-light&layout=compact" alt="Mr-G3ntl3man Top Lang's" />
 </p>
