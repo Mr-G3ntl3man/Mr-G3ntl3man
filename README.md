@@ -1,6 +1,8 @@
-[![Mr-G3ntl3man GitHub Banner](assets/banner.jpg)](https://web-site-mr-gentleman.vercel.app)
+[![Mr-G3ntl3man GitHub Banner](assets/gitBanner.jpg)](https://web-site-mr-gentleman.vercel.app)
 
 Hey there 👋
+
+
 
 
 ## 📌 Pinned Repositories
