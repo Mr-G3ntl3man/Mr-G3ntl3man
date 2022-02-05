@@ -7,7 +7,7 @@ Hey there 👋
 
 ## 📌 Pinned Repositories
 
-<p  style="display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
+<div  style="display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
 <a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Friday">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Friday&theme=tokyonight" alt="repo Friday"/>
 </a>
@@ -15,9 +15,9 @@ Hey there 👋
 <a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Portfolio">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Portfolio&theme=tokyonight" alt="repo Portfolio" />
 </a>
-</p>
+</div>
 
-<p  style="display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
+<div  style="display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
 <a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Friday">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Friday&theme=tokyonight" alt="repo Portfolio"/>
 </a>
@@ -25,7 +25,7 @@ Hey there 👋
 <a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Portfolio">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Portfolio&theme=tokyonight" alt="repo Portfolio"/>
 </a>
-</p>
+</div>
 
 ## 📈 GitHub Stats
 
