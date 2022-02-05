@@ -1,4 +1,4 @@
-[![Mr-G3ntl3man GitHub Banner](./assets/banner.png)](https://web-site-mr-gentleman.vercel.app/)
+[![Mr-G3ntl3man GitHub Banner](assets/banner.png)](https://web-site-mr-gentleman.vercel.app/)
 
 Hey there 👋
 
