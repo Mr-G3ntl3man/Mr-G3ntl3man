@@ -8,21 +8,21 @@ Hey there 👋
 ## 📌 Pinned Repositories
 
 <div  style="display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
-<a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Friday">
+<a style="display: inline-block; margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Friday">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Friday&theme=tokyonight" alt="repo Friday"/>
 </a>
 
-<a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Portfolio">
+<a style="display: inline-block; margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Portfolio">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Portfolio&theme=tokyonight" alt="repo Portfolio" />
 </a>
 </div>
 
-<div  style="display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
-<a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Friday">
+<div  style=" display: flex; justify-content: center; flex-wrap: wrap; margin: 0">
+<a style="display: inline-block; margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Friday">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Friday&theme=tokyonight" alt="repo Portfolio"/>
 </a>
 
-<a style="margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Portfolio">
+<a style="display: inline-block; margin:10px 20px" href="https://github.com/Mr-G3ntl3man/Portfolio">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Portfolio&theme=tokyonight" alt="repo Portfolio"/>
 </a>
 </div>
