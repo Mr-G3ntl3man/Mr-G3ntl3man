@@ -1,16 +1,14 @@
 [![Mr-G3ntl3man GitHub Banner](assets/gitHeader.jpg)](https://web-site-mr-gentleman.vercel.app)
 
-Hey there 👋
+# Hey there 👋
+
 <h3  align="center">
 I'm a front-end developer based in Moscow! Developer with experience in creating SPA using React, Redux ,HTML,CSS, JS.
 </h3>
 
 ## 🧰 Things I code with
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 <p align="center">
-
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
@@ -27,6 +25,7 @@ I'm a front-end developer based in Moscow! Developer with experience in creating
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170fe?style=for-the-badge&logo=AntDesign&logoColor=black" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-CC6699?style=for-the-badge&logo=storybook&logoColor=black" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-green?style=for-the-badge&logo=jest&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ## 📌 Pinned Repositories
