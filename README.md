@@ -1,12 +1,13 @@
 [![Mr-G3ntl3man GitHub Banner](assets/gitHeader.jpg)](https://web-site-mr-gentleman.vercel.app)
 
-# Hey there 👋
+### Hey there 👋
 
 <h3  align="center">
 I'm a front-end developer based in Moscow! Developer with experience in creating SPA using React, Redux ,HTML,CSS, JS.
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 </h3>
 
-## 🧰 Things I code with
+# 🧰 Things I code with
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
