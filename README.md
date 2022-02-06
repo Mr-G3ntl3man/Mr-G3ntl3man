@@ -7,7 +7,13 @@ I'm a front-end developer based in Moscow! Developer with experience in creating
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 </h3>
 
-# 🧰 Things I code with
+
+
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🧰 Things I code with
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
