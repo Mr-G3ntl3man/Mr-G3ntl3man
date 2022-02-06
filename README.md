@@ -1,4 +1,4 @@
-[![Mr-G3ntl3man GitHub Banner](assets/gitBanner.jpg)](https://web-site-mr-gentleman.vercel.app)
+[![Mr-G3ntl3man GitHub Banner](assets/gitHeader.jpg)](https://web-site-mr-gentleman.vercel.app)
 
 Hey there 👋
 <h3  align="center">
@@ -7,7 +7,10 @@ I'm a front-end developer based in Moscow! Developer with experience in creating
 
 ## 🧰 Things I code with
 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 <p align="center">
+
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
