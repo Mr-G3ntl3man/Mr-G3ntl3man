@@ -11,7 +11,7 @@ I'm a front-end developer based in Moscow! Developer with experience in creating
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Next js" src="https://img.shields.io/badge/Next js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Next js" src="https://img.shields.io/badge/-Next js-000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
   <img alt="CSS3" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
@@ -20,10 +20,10 @@ I'm a front-end developer based in Moscow! Developer with experience in creating
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=black" />
-  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=Chakra UI&logoColor=black" />
-  <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-0170fe?style=for-the-badge&logo=Ant Design&logoColor=black" />
-  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-CC6699?style=for-the-badge&logo=storybook&logoColor=black" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-green?style=for-the-badge&logo=jest&logoColor=black" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=for-the-badge&logo=ChakraUI&logoColor=black" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170fe?style=for-the-badge&logo=AntDesign&logoColor=black" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-CC6699?style=for-the-badge&logo=storybook&logoColor=black" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-green?style=for-the-badge&logo=jest&logoColor=black" />
 </p>
 
 ## 📌 Pinned Repositories
