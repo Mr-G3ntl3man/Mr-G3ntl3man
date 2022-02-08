@@ -2,18 +2,17 @@
 
 ### Hey there 👋
 
-<h3  align="center">
+<p  align="center">
 I'm a front-end developer based in Moscow! Developer with experience in creating SPA using React, Redux ,HTML,CSS, JS.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-</h3>
+</p>
 
+### 📊 This week i spent my time on:
 
-
-📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🧰 Things I code with
+### 🧰 Things I code with
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,7 +34,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img alt="Figma" src="https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## 📌 Pinned Repositories
+### 📌 Pinned Repositories
 
 <p align="center">
 <a  href="https://github.com/Mr-G3ntl3man/Friday">
@@ -48,16 +47,16 @@ My passion for software lies with dreaming up ideas and making them come true wi
 </p>
 
 <p align="center">
-<a  href="https://github.com/Mr-G3ntl3man/Friday">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Friday&theme=tokyonight" alt="repo Portfolio"/>
+<a  href="https://github.com/Mr-G3ntl3man/Social_Network">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Social_Network&theme=tokyonight" alt="repoSocial_Network"/>
 </a>
 
-<a  href="https://github.com/Mr-G3ntl3man/Portfolio">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Portfolio&theme=tokyonight" alt="repo Portfolio"/>
+<a  href="https://github.com/Mr-G3ntl3man/To_Do_List">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=To_Do_List&theme=tokyonight" alt="repo To_Do_List"/>
 </a>
 </p>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-G3ntl3man&show_icons=true&theme=tokyonight" alt="Mr-G3ntl3man Profile Stats" />
