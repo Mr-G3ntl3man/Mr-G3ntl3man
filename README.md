@@ -85,6 +85,11 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 ```
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Mr-G3ntl3man/Mr-G3ntl3man/main/charts/bar_graph.png)
+
+Last Updated on 09/02/2022 15:58:13 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Things I code with
