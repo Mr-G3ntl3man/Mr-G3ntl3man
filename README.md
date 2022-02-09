@@ -10,9 +10,9 @@
 
 <hr/>
 
-<div align="center">
-<img alt="coding gif" src="https://i.pinimg.com/originals/67/0b/bc/670bbc8b2507d5f2f0b32f73224e972a.gif"  width="80%">
-</div>
+<p align="center">
+<img alt="coding gif" src="https://i.pinimg.com/originals/67/0b/bc/670bbc8b2507d5f2f0b32f73224e972a.gif" >
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2013%20mins-blue)
