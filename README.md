@@ -8,11 +8,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
 I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 
+<hr/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2013%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 **🐱 My GitHub Data**
 
@@ -84,10 +83,6 @@ HTML                     2 repos             ████░░░░░░░�
 PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Mr-G3ntl3man/Mr-G3ntl3man/main/charts/bar_graph.png)
 
 Last Updated on 09/02/2022 15:58:13 UTC
 <!--END_SECTION:waka-->
