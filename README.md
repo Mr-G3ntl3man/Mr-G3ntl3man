@@ -93,8 +93,8 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ### 📌 Pinned Repositories
 
 <p align="center">
-<a  href="https://github.com/Mr-G3ntl3man/Friday">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Friday&theme=tokyonight" alt="repo Friday"/>
+<a  href="https://github.com/Mr-G3ntl3man/Learning_cards">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Learning_cards&theme=tokyonight" alt="repo Friday"/>
 </a>
 
 <a href="https://github.com/Mr-G3ntl3man/Portfolio">
