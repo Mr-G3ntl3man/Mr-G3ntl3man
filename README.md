@@ -14,19 +14,19 @@ I take great care in the experience, architecture, and code quality of the thing
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 262 Contributions in the Year 2022
- > 
-> 📦 92.1 kB Used in GitHub's Storage 
- > 
+>
+> 📦 92.1 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 13 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
@@ -35,7 +35,8 @@ I take great care in the experience, architecture, and code quality of the thing
 🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
 Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
@@ -48,8 +49,7 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Moscow
@@ -75,7 +75,7 @@ Windows                  17 hrs 23 mins      ███████████�
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
 TypeScript               7 repos             ██████████████░░░░░░░░░░░   58.33% 
@@ -85,13 +85,6 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Mr-G3ntl3man/Mr-G3ntl3man/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/02/2022 15:58:13 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Things I code with
