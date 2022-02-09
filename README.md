@@ -1,6 +1,6 @@
 [![Mr-G3ntl3man GitHub Banner](assets/gitHeader.jpg)](https://web-site-mr-gentleman.vercel.app)
 
-# Hey there 👋
+<h1 align="center">Hey there 👋</h1>
 
 <p align="center">
 I'm a front-end developer based in Moscow! Developer with experience in creating SPA using React, Redux ,HTML,CSS, JS.
@@ -8,9 +8,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
 I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 
-<hr/>
-
-### 📊 This week i spent my time on:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
