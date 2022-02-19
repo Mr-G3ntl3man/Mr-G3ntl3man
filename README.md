@@ -70,7 +70,7 @@ Windows                  13 hrs 23 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mr-G3ntl3man/Mr-G3ntl3man/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 18:45:53 UTC
+ Last Updated on 19/02/2022 18:44:39 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Things I code with
