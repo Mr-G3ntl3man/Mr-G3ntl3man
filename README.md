@@ -107,8 +107,8 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=Social_Network&theme=tokyonight" alt="repoSocial_Network"/>
 </a>
 
-<a  href="https://github.com/Mr-G3ntl3man/To_Do_List">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=To_Do_List&theme=tokyonight" alt="repo To_Do_List"/>
+<a  href="https://github.com/Mr-G3ntl3man/To-Do_List">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-G3ntl3man&repo=To-Do_List&theme=tokyonight" alt="repo To_Do_List"/>
 </a>
 </p>
 
