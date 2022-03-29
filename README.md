@@ -11,11 +11,11 @@
 <hr/>
 
 <p align="center">
-<img alt="coding gif" src="https://i.pinimg.com/originals/67/0b/bc/670bbc8b2507d5f2f0b32f73224e972a.gif" >
+<img alt="coding gif" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" >
 </p>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
@@ -24,7 +24,8 @@
 🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
 Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
@@ -37,8 +38,7 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Moscow
@@ -67,10 +67,9 @@ Windows                  12 hrs 6 mins       ███████████�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Mr-G3ntl3man/Mr-G3ntl3man/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Mr-G3ntl3man/Mr-G3ntl3man/main/charts/bar_graph.png)
 
-
- Last Updated on 20/02/2022 18:44:37 UTC
+Last Updated on 20/02/2022 18:44:37 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Things I code with
