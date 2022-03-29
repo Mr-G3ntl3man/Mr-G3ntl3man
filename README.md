@@ -11,7 +11,7 @@
 <hr/>
 
 <p align="center">
-<img alt="coding gif" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" >
+<img alt="coding gif" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif" >
 </p>
 
 <!--START_SECTION:waka-->
